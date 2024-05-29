@@ -32,3 +32,8 @@ Options:
       --version  Show version number                                   [boolean]
   -h, --help     Show help                                             [boolean]
 ```
+
+update tailchat-cli
+```bash
+npm update -g tailchat-cli
+```
